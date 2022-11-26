@@ -1,3 +1,7 @@
+/*
+    two integers required
+*/
+
 #include <arithmetic.h>
 
 int mul(int a, int b)
