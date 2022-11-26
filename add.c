@@ -1,3 +1,7 @@
+/*
+    add = two integers required 
+*/
+
 #include <arithmetic.h>
 
 int add(int a, int b)
